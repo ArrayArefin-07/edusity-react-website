@@ -40,3 +40,18 @@
   line-height: 1.4;
   /* background: #000; */
 }
+.slide img{
+  width: 65px;
+  border-radius: 50%;
+  margin-right: 10px;
+  border: 4.5px solid #212EA0;
+}
+.user-info{
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  font-size: 15px;
+}
+.user-info h3{
+  color: #212EA0;
+}
