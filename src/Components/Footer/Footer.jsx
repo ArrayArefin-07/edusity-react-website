@@ -3,8 +3,13 @@ import './Footer.css'
 
 const Footer = () => {
   return (
-    <div>
-      
+    <div className='footer'>
+      <p>© 2025 Edusty. All rights reserved.</p>
+      <ul>
+        <li>Terms & Conditions</li>
+        <li>Privacy Policy</li>
+        <li></li>
+      </ul>
     </div>
   )
 }
